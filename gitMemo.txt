@@ -2,6 +2,10 @@
 *다른커밋으로 시간여행하기
   git log로 commit ID 확인 후, git checkout <commit ID>하여 되돌아 간다
   
+*github에 repository를 만든 후 , 로컬저장소에 원격저장소 주소를 설정하기.
+git remote add origin https://github.com/Daniel-Baek/lab01.git
+
+
  
  
  
